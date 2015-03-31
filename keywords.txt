@@ -1,0 +1,9 @@
+DRV8833	KEYWORD1
+motorAReverse	KEYWORD2
+motorAForward	KEYWORD2
+motorAStop	KEYWORD2
+motorBReverse	KEYWORD2
+motorBForward	KEYWORD2
+motorBStop	KEYWORD2
+attachMotorA	KEYWORD2
+attachMotorB	KEYWORD2
