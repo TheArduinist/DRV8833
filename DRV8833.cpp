@@ -147,7 +147,7 @@ void DRV8833::attachMotorB(int b1, int b2)
 {
 	if (!this->motorBAttached) // If motor B is NOT attached...
 	{
-		// ...attach motor A to the input pins.
+		// ...attach motor B to the input pins.
 		pinMode(b1, OUTPUT);
 		pinMode(b2, OUTPUT);
 		this->b1 = b1;
